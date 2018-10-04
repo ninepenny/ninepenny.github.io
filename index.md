@@ -1,7 +1,8 @@
 ## Welcome
 ![](https://api.gushi.ci/all.png)
 
-````markdown
+```markdown
+```
 系统信息 
 arch 显示机器的处理器架构(1) 
 uname -m 显示机器的处理器架构(2) 
@@ -468,5 +469,6 @@ jps 192.168.0.77
 注：jps命令有个地方很不好，似乎只能显示当前用户的java进程，要显示其他用户的还是只能用unix/linux的ps命令。
 
 
+```
 ```
 
