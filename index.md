@@ -1,5 +1,5 @@
 ## Welcome
-[主页](https://ninepenny.1year.xyz) 
+[主页](https://ninepenny.GITHUB.IO) 
 
 
 ### Who ?
