@@ -1,6 +1,6 @@
 ## Welcome
 ![](https://api.gushi.ci/all.png)
-
+[1YEAR](https://www.1year.xyz/)
 ```markdown
 系统信息 
 arch 显示机器的处理器架构(1) 
@@ -470,6 +470,6 @@ jps 192.168.0.77
 
 ```
 ```
-[1YEAR](https://www.1year.xyz/)
+
 
 
