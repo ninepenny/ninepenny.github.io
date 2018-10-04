@@ -9,6 +9,6 @@
 ```markdown
 Today
 
-[Link](url) and ![Image](src)
+[Image](https://api.gushi.ci/all.svg)
 ```
 
