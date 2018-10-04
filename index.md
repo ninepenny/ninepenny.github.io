@@ -2,7 +2,6 @@
 ![](https://api.gushi.ci/all.png)
 
 ```markdown
-```
 系统信息 
 arch 显示机器的处理器架构(1) 
 uname -m 显示机器的处理器架构(2) 
@@ -471,4 +470,7 @@ jps 192.168.0.77
 
 ```
 ```
+[1YEAR](https://www.1year.xyz/)
+```
+
 
